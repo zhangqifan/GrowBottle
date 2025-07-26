@@ -1,4 +1,4 @@
-# GrowBottle 🍼
+# GrowBottle🫙
 
 ## 项目简介
 
